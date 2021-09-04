@@ -1,16 +1,14 @@
-### 이상민의 깃허브  👋
+# 이상민 GitHub 저장소
+>기본기에 충실한 개발자
 
-<!--
-**skysamer/skysamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+## :pushpin: Intro
+백엔드 개발자 이상민입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+## :pushpin: Contact
+- 이메일: skyslayer123@naver.com
+- 블로그: https://armyparty.tistory.com/
+- 깃헙: https://github.com/skysamer
