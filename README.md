@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이상민의 깃허브  👋
 
 <!--
 **skysamer/skysamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
