@@ -6,6 +6,10 @@
 ## :pushpin: Intro
 백엔드 개발자 이상민입니다.
 
+끊임없이 공부하고, 순간순간에 최선을 다하기 위해 노력하는 자세를 갖고 살아가고자 합니다.
+
+기술 스택 : Java / Spring / MyBatis / Spring Security / Spring Boot / Spring Data JPA
+
 </br>
 
 ## :pushpin: Contact
