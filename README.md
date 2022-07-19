@@ -16,5 +16,5 @@
 
 ## :pushpin: Contact
 - 이메일: skyslayer123@naver.com
-- 블로그: https://armyparty.tistory.com/
+- 연락처: 010-6340-4587
 - 깃헙: https://github.com/skysamer
